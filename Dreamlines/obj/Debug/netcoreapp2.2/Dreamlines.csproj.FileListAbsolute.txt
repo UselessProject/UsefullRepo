@@ -1,0 +1,10 @@
+D:\Projects\Dreamlines\Dreamlines\bin\Debug\netcoreapp2.2\Dreamlines.deps.json
+D:\Projects\Dreamlines\Dreamlines\bin\Debug\netcoreapp2.2\Dreamlines.dll
+D:\Projects\Dreamlines\Dreamlines\obj\Debug\netcoreapp2.2\Dreamlines.csproj.CoreCompileInputs.cache
+D:\Projects\Dreamlines\Dreamlines\obj\Debug\netcoreapp2.2\Dreamlines.AssemblyInfoInputs.cache
+D:\Projects\Dreamlines\Dreamlines\obj\Debug\netcoreapp2.2\Dreamlines.AssemblyInfo.cs
+D:\Projects\Dreamlines\Dreamlines\bin\Debug\netcoreapp2.2\Dreamlines.runtimeconfig.json
+D:\Projects\Dreamlines\Dreamlines\bin\Debug\netcoreapp2.2\Dreamlines.runtimeconfig.dev.json
+D:\Projects\Dreamlines\Dreamlines\bin\Debug\netcoreapp2.2\Dreamlines.pdb
+D:\Projects\Dreamlines\Dreamlines\obj\Debug\netcoreapp2.2\Dreamlines.dll
+D:\Projects\Dreamlines\Dreamlines\obj\Debug\netcoreapp2.2\Dreamlines.pdb

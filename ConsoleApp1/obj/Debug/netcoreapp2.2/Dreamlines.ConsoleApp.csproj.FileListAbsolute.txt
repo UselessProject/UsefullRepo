@@ -1,0 +1,15 @@
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.deps.json
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.runtimeconfig.json
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.runtimeconfig.dev.json
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.dll
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.pdb
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.DAL.pdb
+D:\Projects\Dreamlines\ConsoleApp1\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll.config
+D:\Projects\Dreamlines\ConsoleApp1\obj\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.csprojAssemblyReference.cache
+D:\Projects\Dreamlines\ConsoleApp1\obj\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\Dreamlines\ConsoleApp1\obj\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\Dreamlines\ConsoleApp1\obj\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.AssemblyInfo.cs
+D:\Projects\Dreamlines\ConsoleApp1\obj\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.csproj.CopyComplete
+D:\Projects\Dreamlines\ConsoleApp1\obj\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.dll
+D:\Projects\Dreamlines\ConsoleApp1\obj\Debug\netcoreapp2.2\Dreamlines.ConsoleApp.pdb
