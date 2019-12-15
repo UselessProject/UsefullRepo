@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Dreamlines.BusinessLogic
 {
-    public class SalesUnitDto
+    public class SalesunitDto
     {
-        public int SalesUnitId;
-        public string SalesUnitName;
+        public int SalesunitId;
+        public string SalesunitName;
         public int TotalPrice;
     }
 }

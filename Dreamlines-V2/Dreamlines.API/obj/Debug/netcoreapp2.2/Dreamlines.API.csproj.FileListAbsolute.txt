@@ -12,3 +12,23 @@ D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.Raz
 D:\Projects\Dreamlines\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.pdb
 D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.dll
 D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.deps.json
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.runtimeconfig.json
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.runtimeconfig.dev.json
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.DAL.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll.config
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.csprojAssemblyReference.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.csproj.CoreCompileInputs.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.RazorAssemblyInfo.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.RazorAssemblyInfo.cs
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.AssemblyInfoInputs.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.AssemblyInfo.cs
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.RazorTargetAssemblyInfo.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.csproj.CopyComplete
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.pdb

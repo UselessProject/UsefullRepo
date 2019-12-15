@@ -6,18 +6,18 @@ using Dreamlines.DAL;
 
 namespace Dreamlines.BusinessLogic
 {
-  public  class SalesUnitService: ISalesUnitService
+  public  class SalesunitService: ISalesunitService
     {
-        private SalesUnitngContext _context;
+        private SalesunitContext _context;
 
-        public SalesUnitService(SalesUnitngContext context)
+        public SalesunitService(SalesunitContext context)
         {
             _context = context;
         }
-        public IEnumerable<SalesUnitDto> Find()
+        public IEnumerable<SalesunitDto> Find()
         {
-            var result = from salesUnit in _context.SalesUnits
-                         join ship in _context.Ships on salesUnit.Id equals ship.SalesUnitId
+            var result = from salesUnit in _context.Salesunits
+                         join ship in _context.Ships on salesUnit.Id equals ship.SalesunitId
                          join booking in _context.Bookings on ship.Id equals booking.ShipId
                          group booking by new
                          {
@@ -25,10 +25,10 @@ namespace Dreamlines.BusinessLogic
                              salesUnit.Name
                          }
                            into grp
-                         select new SalesUnitDto
+                         select new SalesunitDto
                          {
-                             SalesUnitId = grp.Key.Id,
-                             SalesUnitName = grp.Key.Name, 
+                             SalesunitId = grp.Key.Id,
+                             SalesunitName = grp.Key.Name, 
                              TotalPrice = grp.Sum(b => b.Price)
                          };
 

@@ -10,3 +10,15 @@ D:\Projects\Dreamlines\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.run
 D:\Projects\Dreamlines\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.runtimeconfig.dev.json
 D:\Projects\Dreamlines\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll.config
 D:\Projects\Dreamlines\Dreamlines.DAL\obj\Debug\netcoreapp2.2\Dreamlines.DAL.csprojAssemblyReference.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll.config
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.deps.json
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.runtimeconfig.json
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.runtimeconfig.dev.json
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\bin\Debug\netcoreapp2.2\Dreamlines.DAL.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\obj\Debug\netcoreapp2.2\Dreamlines.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\obj\Debug\netcoreapp2.2\Dreamlines.DAL.AssemblyInfoInputs.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\obj\Debug\netcoreapp2.2\Dreamlines.DAL.AssemblyInfo.cs
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\obj\Debug\netcoreapp2.2\Dreamlines.DAL.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\obj\Debug\netcoreapp2.2\Dreamlines.DAL.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.DAL\obj\Debug\netcoreapp2.2\Dreamlines.DAL.csprojAssemblyReference.cache

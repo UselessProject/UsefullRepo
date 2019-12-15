@@ -5,13 +5,11 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dreamlines.DAL", "Dreamlines.DAL\Dreamlines.DAL.csproj", "{14CA9D9C-55A1-4CBD-BF69-1516493F1C8D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dreamlines.ConsoleApp", "ConsoleApp1\Dreamlines.ConsoleApp.csproj", "{1F722F09-B0AB-4174-8A82-254826D23589}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dreamlines.BusinessLogic", "Dreamlines.BusinessLogic\Dreamlines.BusinessLogic.csproj", "{5E0F3D4C-3CEB-4D8A-97F1-C7C04318E88D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dreamlines.Test", "Dreamlines.Test\Dreamlines.Test.csproj", "{60413481-066B-45C2-B2D6-6F89D3E55F22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamlines.API", "Dreamlines.API\Dreamlines.API.csproj", "{B5B63E16-8B9A-47BB-8AE0-8244EE54F8C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dreamlines.API", "Dreamlines.API\Dreamlines.API.csproj", "{B5B63E16-8B9A-47BB-8AE0-8244EE54F8C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{14CA9D9C-55A1-4CBD-BF69-1516493F1C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14CA9D9C-55A1-4CBD-BF69-1516493F1C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14CA9D9C-55A1-4CBD-BF69-1516493F1C8D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F722F09-B0AB-4174-8A82-254826D23589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F722F09-B0AB-4174-8A82-254826D23589}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F722F09-B0AB-4174-8A82-254826D23589}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F722F09-B0AB-4174-8A82-254826D23589}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5E0F3D4C-3CEB-4D8A-97F1-C7C04318E88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5E0F3D4C-3CEB-4D8A-97F1-C7C04318E88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E0F3D4C-3CEB-4D8A-97F1-C7C04318E88D}.Release|Any CPU.ActiveCfg = Release|Any CPU

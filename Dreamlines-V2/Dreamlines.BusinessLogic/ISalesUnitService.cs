@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Dreamlines.BusinessLogic
 {
-    public interface ISalesUnitService
+    public interface ISalesunitService
     {
-        IEnumerable<SalesUnitDto> Find();
+        IEnumerable<SalesunitDto> Find();
     }
 }

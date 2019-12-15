@@ -11,3 +11,16 @@ D:\Projects\Dreamlines\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlin
 D:\Projects\Dreamlines\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.csproj.CopyComplete
 D:\Projects\Dreamlines\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.dll
 D:\Projects\Dreamlines\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\bin\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.deps.json
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\bin\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\bin\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\bin\Debug\netcoreapp2.2\Dreamlines.DAL.pdb
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\bin\Debug\netcoreapp2.2\Dreamlines.DAL.dll.config
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.csprojAssemblyReference.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.AssemblyInfo.cs
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.csproj.CopyComplete
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.dll
+D:\Projects\Dreamlines -V2\UsefullRepo\Dreamlines-V2\Dreamlines.BusinessLogic\obj\Debug\netcoreapp2.2\Dreamlines.BusinessLogic.pdb

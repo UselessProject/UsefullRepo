@@ -7,9 +7,9 @@ namespace Dreamlines.DAL
     public class Ship
     {
         public int Id { get; set; }
-        public int SalesUnitId { get; set; }
+        public int SalesunitId { get; set; }
         public string Name { get; set; }
         public List<Booking> Bookings { get; set; }
-        //public SalesUnit salesUnit { get; set; }?for DDD
+        //public Salesunit salesUnit { get; set; }?for DDD
     }
 }

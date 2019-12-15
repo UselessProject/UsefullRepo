@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dreamlines.DAL
 {
-    public class SalesUnit
+    public class Salesunit
     {
         public int Id { get; set; }
         public string Name { get; set; }
