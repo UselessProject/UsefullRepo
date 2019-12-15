@@ -1,0 +1,14 @@
+D:\Projects\Dreamlines\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.deps.json
+D:\Projects\Dreamlines\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.runtimeconfig.json
+D:\Projects\Dreamlines\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.runtimeconfig.dev.json
+D:\Projects\Dreamlines\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.dll
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.csprojAssemblyReference.cache
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.csproj.CoreCompileInputs.cache
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.RazorAssemblyInfo.cache
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.RazorAssemblyInfo.cs
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.AssemblyInfoInputs.cache
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.AssemblyInfo.cs
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.RazorTargetAssemblyInfo.cache
+D:\Projects\Dreamlines\Dreamlines.API\bin\Debug\netcoreapp2.2\Dreamlines.API.pdb
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.dll
+D:\Projects\Dreamlines\Dreamlines.API\obj\Debug\netcoreapp2.2\Dreamlines.API.pdb
