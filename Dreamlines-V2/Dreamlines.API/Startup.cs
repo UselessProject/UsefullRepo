@@ -30,8 +30,8 @@ namespace Dreamlines.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.TryAddSingleton<ISalesunitService, SalesunitService>();
-            services.TryAddSingleton<SalesunitContext, SalesunitContext>();
+            services.TryAddScoped<ISalesunitService, SalesunitService>();
+            services.TryAddScoped<SalesunitContext, SalesunitContext>();
 
             // ===== Add our DbContext ========
             services.AddDbContext<SalesunitContext>(options =>

@@ -8,6 +8,6 @@ namespace Dreamlines.BusinessLogic
     {
         public int SalesunitId;
         public string SalesunitName;
-        public int TotalPrice;
+        public double TotalPrice;
     }
 }
