@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Dreamlines.BusinessLogic;
+using Dreamlines.DAL;
+using Dreamlines.DAL.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,7 +12,7 @@ namespace Dreamlines.API.Controllers
 {
     [Route("api/Salesunits")]
     [ApiController]
-    public class SalesunitsController : ControllerBase
+    public class SalesunitsController : MyMDBController<Salesunit, SalesunitRepository>
     {
         private readonly ISalesunitService _salesunitService;
         
@@ -22,7 +24,7 @@ namespace Dreamlines.API.Controllers
         }
         // GET: api/Salesunits
         [HttpGet]
-        public IEnumerable<SalesunitDto> Get()
+        public IEnumerable<SalesunitDto> Get(int pageIndex,int pageCount)
         {
             var result = _salesunitService.Find();
             return result;

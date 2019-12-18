@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Dreamlines.DAL
 {
-    public class Salesunit
+    public class Ship: IEntity
     {
         public int Id { get; set; }
+        public int SalesunitId { get; set; }
         public string Name { get; set; }
-        public string Country { get; set; }
-        public string Currency { get; set; }
-        public List<Ship> Ships { get; set; }
+        public List<Booking> Bookings { get; set; }
+        //public Salesunit salesUnit { get; set; }?for DDD
     }
 }

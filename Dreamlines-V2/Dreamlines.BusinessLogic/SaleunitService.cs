@@ -14,7 +14,7 @@ namespace Dreamlines.BusinessLogic
         {
             _context = context;
         }
-        public IEnumerable<SalesunitDto> Find()
+        public IEnumerable<SalesunitDto> Find(int pageIndex,int pageCount)
         {
             var result = from salesUnit in _context.Salesunits
                          join ship in _context.Ships on salesUnit.Id equals ship.SalesunitId

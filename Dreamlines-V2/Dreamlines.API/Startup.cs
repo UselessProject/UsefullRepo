@@ -31,7 +31,7 @@ namespace Dreamlines.API
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.TryAddScoped<ISalesunitService, SalesunitService>();
-            services.TryAddScoped<SalesunitContext, SalesunitContext>();
+            services.TryAddScoped<SalesunitContext>();
 
             // ===== Add our DbContext ========
             services.AddDbContext<SalesunitContext>(options =>

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dreamlines.DAL
 {
-    public class Booking
+    public class Booking: IEntity
     {
         public int Id { get; set; }
         public int ShipId { get; set; }
